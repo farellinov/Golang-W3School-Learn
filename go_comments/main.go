@@ -5,5 +5,5 @@ import "fmt"
 
 func main() {
 	// This is a comment
-	fmt.Println("Hello comments!")
+	fmt.Println("Hello comments!")q
 }
